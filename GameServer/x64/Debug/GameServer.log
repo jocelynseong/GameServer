@@ -1,0 +1,7 @@
+﻿  AccountManager.cpp
+C:\Users\jocelyn\source\repos\Server\GameServer\AccountManager.cpp(8,20): warning C4930: 'std::lock_guard<std::mutex> guard(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
+  GameServer.cpp
+  UserManager.cpp
+C:\Users\jocelyn\source\repos\Server\GameServer\UserManager.cpp(7,20): warning C4930: 'std::lock_guard<std::mutex> guard(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
+  코드를 생성하고 있습니다...
+C:\Users\jocelyn\source\repos\Server\GameServer\UserManager.h(19): error C4716: 'UserManager::GetUser': 값을 반환해야 합니다.
